@@ -1,0 +1,16 @@
+[00:19:07][INFO] ===== META-TRAINING =====
+[00:19:07][INFO] Running on GPU.
+[00:19:07][INFO] Training using dataset located in ../output/
+[00:19:15][INFO] Epochs: 1000 Batches: 5962 Batch Size: 4
+[00:19:18][INFO] Epoch 1: [1/5962] | Time: 0:00:01.145215 | Loss_E_G = -0.9162 Loss_D = 2.0000
+[00:19:18][ERROR] Something went wrong: [Errno 21] Is a directory: '.'
+[00:20:15][INFO] ===== META-TRAINING =====
+[00:20:15][INFO] Running on GPU.
+[00:20:15][INFO] Training using dataset located in ../output/
+[00:20:23][INFO] Epochs: 1000 Batches: 5962 Batch Size: 4
+[00:20:25][INFO] Epoch 1: [1/5962] | Time: 0:00:01.147388 | Loss_E_G = -0.9355 Loss_D = 2.0000
+[00:55:17][INFO] ===== META-TRAINING =====
+[00:55:17][INFO] Running on GPU.
+[00:55:17][INFO] Training using dataset located in ../output/
+[00:55:25][INFO] Epochs: 1000 Batches: 5962 Batch Size: 4
+[00:55:28][INFO] Epoch 1: [1/5962] | Time: 0:00:01.142567 | Loss_E_G = -0.9260 Loss_D = 2.0000
